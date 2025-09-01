@@ -1,7 +1,6 @@
 # Crazy-quizz
 Quizz challenge
-
-Ahahaha yeah I understoo it and upgraded it : score=0
+score=0
 print("welcome to crazy quizz 😃!..")
 capital_of_italy=input("what is the capital of italy 🫣??: ")
 if capital_of_italy=="Rome":
