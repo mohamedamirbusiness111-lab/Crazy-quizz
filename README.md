@@ -1,5 +1,4 @@
 # Crazy-quizz
-
 score=0
 print("welcome to crazy quizz 😃!..")
 print("here we are going to learn crazy facts together")
