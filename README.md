@@ -1,6 +1,16 @@
 # Crazy-quizz
+print (" hello friend , make sure to make an acc ")
+username = input (" what's ur username 🤔 : ")
+password = input (" what's ur password 🔑 😶‍🌫️ : ")
+#log in 
+username_1 = input ("enter your username here : ")
+password_1 = input ("enter your password here : ")
+if password == password_1 and username == username_1 :
+    print ("good welcome to ur acc " + username)
+    
+
 score=0
-print("welcome to crazy quizz 😃!..")
+print("welcome to crazy quizz 😃!.." + username)
 print("here we are going to learn crazy facts together")
 input("do you want to continue🧐?.. ")
 easy_or_hard= input("do you want to start with easy or hard ? 🫣")
